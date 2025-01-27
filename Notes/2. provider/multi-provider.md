@@ -81,5 +81,3 @@ Imagine you're managing infrastructure for a multi-cloud application where part 
 - When you're working with resources in multiple clouds (e.g., AWS for storage and Azure for compute).
 - When managing hybrid cloud environments or multi-cloud infrastructure.
 - When you need to use resources from different service providers within a single Terraform project.
-
-Feel free to ask if you need further clarification on this! 😊
